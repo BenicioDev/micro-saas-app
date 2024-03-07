@@ -61,11 +61,11 @@ export function AuthForm() {
               handleSubmit();
             }}
           >
-            Send Magic Link
+           Enviar link de acesso
           </Button>
         </div>
         <div className="mt-4 text-center text-sm">
-          A magic link will be sent to your email for authentication
+          Um link foi enviado para o seu email de autenticação.
         </div>
       </div>
     </div>
